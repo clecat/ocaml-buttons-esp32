@@ -1,0 +1,2 @@
+module Button = struct
+end

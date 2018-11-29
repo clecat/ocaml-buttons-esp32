@@ -1,0 +1,6 @@
+(library
+ (name        button)
+ (public_name buttons-esp32)
+ (c_names     driver)
+ (no_dynlink)
+ (libraries   cstruct))
