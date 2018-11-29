@@ -1,4 +1,4 @@
 (library
  (name        button)
  (public_name buttons-esp32)
- (libraries   cstruct))
+ (libraries   cstruct gpio-esp32))
